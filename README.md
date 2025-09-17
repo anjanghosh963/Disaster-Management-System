@@ -67,7 +67,7 @@ To run this project, please follow the steps below.
 
 You should now have all three parts of the application running simultaneously.****
 
-# Linked In post :- 
+# Linked In post :- https://www.linkedin.com/posts/anjanghosh963_mernstack-webdevelopment-internship-activity-7374041950619881472-PsR4?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEiknjEB-QGuqv48T6vBmVagL9pwU-i1eAU
 
 # Reference Screenshots:-
 <img width="1920" height="1033" alt="{B2AE4CA6-F9B1-49F7-BB1E-59178BED944D}" src="https://github.com/user-attachments/assets/16d6b48e-70a9-48f0-a3e1-33a3111e1b73" />
